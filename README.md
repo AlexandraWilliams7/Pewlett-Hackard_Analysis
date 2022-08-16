@@ -6,9 +6,10 @@ The company needs this analysis completed for a few reasons.
 -  Will there be enough employees to fill those positions?
 -  Will there be enough time to train or mentor the replacement?
 
-When this analysis, the "silver tsunami" will be. 
+This analysis will provide the company  reports to help prepare for the "silver tsunami" 
 The reports will show:
 -   The employees are retirement eligible by title.
+-   the total count for each title.
 -   The employees eligible for the mentorship program
 The reports were completed using SQL and DBAs. All Data was exported into to CSV files for the managers. 
 
